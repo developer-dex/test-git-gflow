@@ -15,5 +15,3 @@ app.listen(port, () => {
 // This is the 2nd stash
 
 // This is the merge code example test
-
-// This is the revert commit
